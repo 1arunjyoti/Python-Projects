@@ -3,7 +3,7 @@ from tkinter import messagebox
 from tkinter.ttk import Style
 from ttkbootstrap import Style, ttk
 
-#this program is not complete
+#this program is not completed
 
 morse_code_dict= {'A':'.-', 'B':'-...','C':'-.-.', 'D':'-..', 
                   'E':'.', 'F':'..-.', 'G':'--.', 'H':'....',
